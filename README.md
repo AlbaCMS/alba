@@ -1,2 +1,5 @@
-# alba
-Alba CMS repository
+# Alba CMS
+
+- **Authors**
+* Mahya Fadavi
+* Mohamad Fadavi
